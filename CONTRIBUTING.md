@@ -88,6 +88,12 @@ Após criar o seu Pull Request, nossa automação irá validar a sua submissão.
 | `refactor`     | Realiza mudanças no código que não alteram a funcionalidade.         | `refactor: refactor at CLASSNAME`
 | `test`         | Adiciona ou modifica testes no projeto.                              | `test: add unit test for UserService`
 
+## Galeria de Projetos Open Source Colaborativos
+
+### Projeto: [Sistema de Gestão de Tarefas](https://github.com/usuario/sistema-de-gestao)
+- **Descrição:** Um sistema open source para gestão de tarefas baseado em JavaScript.
+- **Habilidades Necessárias:** Node.js, React, Design de Interface.
+- **Ajuda Necessária:** Estamos buscando pessoas para desenvolver a interface de usuário e testar a aplicação.
 
 ## Referências
 - [ANGULAR. Contributing to Angular](https://github.com/angular/angular/blob/22b96b9/CONTRIBUTING.md)
